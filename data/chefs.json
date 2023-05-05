@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chefName": "John Smith",
+        "chefDescription": "Chef John Smith is a classically trained chef with experience working in Michelin-starred restaurants in Europe. He specializes in French cuisine and is known for his elegant presentations and attention to detail.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 4,
+        "likes": 1000
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://images.pexels.com/photos/8902106/pexels-photo-8902106.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Maria Rodriguez",
+        "chefDescription": "Chef Maria Rodriguez grew up in Italy and learned to cook from her grandmother. She specializes in traditional Italian cuisine and is known for her handmade pasta dishes.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 3,
+        "likes": 500
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chefName": "David Lee",
+        "chefDescription": "Chef David Lee was born and raised in Morocco and brings the flavors of his home country to his cooking. He's known for his flavorful tagines and couscous dishes.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 6,
+        "likes": 2000
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chefName": "Sara Johnson",
+        "chefDescription": "Chef Sara Johnson is a pastry chef who trained at the Culinary Institute of America. She's known for her beautiful and delicious desserts, especially her macarons.",
+        "yearsOfExperience": 4,
+        "numberOfRecipes": 20,
+        "likes": 200
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://images.pexels.com/photos/4057748/pexels-photo-4057748.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chefName": "Julia Chen",
+        "chefDescription": "Chef Julia Chen is a Mexican chef who specializes in authentic Mexican cuisine. He's known for his flavorful mole sauces and homemade tortillas.",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 3,
+        "likes": 400
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chefName": "Michael Brown",
+        "chefDescription": "Chef Michael Brown is a vegan chef who believes in making plant-based cuisine accessible and delicious for everyone. She's known for her inventive dishes that use seasonal and local ingredients.",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 4,
+        "likes": 700
+    }
+]

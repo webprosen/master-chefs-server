@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "mozzarella cheese",
+            "basil leaves",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Top the dough with sliced tomatoes and mozzarella cheese. 4. Drizzle with olive oil and sprinkle with fresh basil leaves. 5. Bake for 12-15 minutes, or until crust is golden brown.",
+        "rating": 4.2,
+        "chef_id": 1
+    },
+    {
+        "id": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "linguine pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese. 3. Pulse until ingredients are finely chopped. 4. Slowly drizzle in olive oil while blending until pesto is smooth. 5. Toss cooked pasta with pesto sauce and serve.",
+        "rating": 4.7,
+        "chef_id": 1
+    },
+    {
+        "id": 3,
+        "recipeName": "Caprese Salad",
+        "ingredients": [
+            "tomatoes",
+            "fresh mozzarella cheese",
+            "basil leaves",
+            "balsamic vinegar",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Slice tomatoes and mozzarella cheese into rounds. 2. Arrange the slices on a plate, alternating between tomato and cheese. 3. Top with fresh basil leaves. 4. Drizzle with balsamic vinegar and olive oil. 5. Sprinkle with salt and pepper to taste.",
+        "rating": 4.1,
+        "chef_id": 1
+    },
+    {
+        "id": 4,
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "eggs",
+            "breadcrumbs",
+            "marinara sauce",
+            "mozzarella cheese"
+        ],
+        "cookingMethod": "1. Preheat oven to 375°F. 2. Beat eggs in a shallow dish. 3. Dip chicken breasts in beaten eggs, then coat with breadcrumbs. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken breasts until golden brown on both sides. 6. Place chicken in a baking dish and top with marinara sauce and mozzarella cheese. 7. Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+        "rating": 4.8,
+        "chef_id": 1
+    },
+    {
+        "id": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "linguine pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese. 3. Pulse until ingredients are finely chopped. 4. Slowly drizzle in olive oil while blending until pesto is smooth. 5. Toss cooked pasta with pesto sauce and serve.",
+        "rating": 4.7,
+        "chef_id": 2
+    },
+    {
+        "id": 3,
+        "recipeName": "Caprese Salad",
+        "ingredients": [
+            "tomatoes",
+            "fresh mozzarella cheese",
+            "basil leaves",
+            "balsamic vinegar",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Slice tomatoes and mozzarella cheese into rounds. 2. Arrange the slices on a plate, alternating between tomato and cheese. 3. Top with fresh basil leaves. 4. Drizzle with balsamic vinegar and olive oil. 5. Sprinkle with salt and pepper to taste.",
+        "rating": 4.1,
+        "chef_id": 2
+    },
+    {
+        "id": 4,
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "eggs",
+            "breadcrumbs",
+            "marinara sauce",
+            "mozzarella cheese"
+        ],
+        "cookingMethod": "1. Preheat oven to 375°F. 2. Beat eggs in a shallow dish. 3. Dip chicken breasts in beaten eggs, then coat with breadcrumbs. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken breasts until golden brown on both sides. 6. Place chicken in a baking dish and top with marinara sauce and mozzarella cheese. 7. Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+        "rating": 4.8,
+        "chef_id": 2
+    },
+    {
+        "id": 1,
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "mozzarella cheese",
+            "basil leaves",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Top the dough with sliced tomatoes and mozzarella cheese. 4. Drizzle with olive oil and sprinkle with fresh basil leaves. 5. Bake for 12-15 minutes, or until crust is golden brown.",
+        "rating": 4.2,
+        "chef_id": 3
+    },
+    {
+        "id": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "linguine pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese. 3. Pulse until ingredients are finely chopped. 4. Slowly drizzle in olive oil while blending until pesto is smooth. 5. Toss cooked pasta with pesto sauce and serve.",
+        "rating": 4.7,
+        "chef_id": 3
+    },
+    {
+        "id": 3,
+        "recipeName": "Caprese Salad",
+        "ingredients": [
+            "tomatoes",
+            "fresh mozzarella cheese",
+            "basil leaves",
+            "balsamic vinegar",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Slice tomatoes and mozzarella cheese into rounds. 2. Arrange the slices on a plate, alternating between tomato and cheese. 3. Top with fresh basil leaves. 4. Drizzle with balsamic vinegar and olive oil. 5. Sprinkle with salt and pepper to taste.",
+        "rating": 4.1,
+        "chef_id": 3
+    },
+    {
+        "id": 4,
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "eggs",
+            "breadcrumbs",
+            "marinara sauce",
+            "mozzarella cheese"
+        ],
+        "cookingMethod": "1. Preheat oven to 375°F. 2. Beat eggs in a shallow dish. 3. Dip chicken breasts in beaten eggs, then coat with breadcrumbs. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken breasts until golden brown on both sides. 6. Place chicken in a baking dish and top with marinara sauce and mozzarella cheese. 7. Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+        "rating": 4.8,
+        "chef_id": 3
+    },
+    {
+        "id": 5,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. In a skillet, cook bacon until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and minced garlic. 4. Add cooked spaghetti to the skillet with the bacon and toss. 5. Remove from heat and pour egg mixture over the pasta. 6. Toss quickly to coat the spaghetti in the sauce. 7. Serve immediately.",
+        "rating": 4.7,
+        "chef_id": 3
+    },
+    {
+        "id": 6,
+        "recipeName": "Chicken Piccata",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "flour",
+            "butter",
+            "lemons",
+            "capers"
+        ],
+        "cookingMethod": "1. Place chicken breasts between two pieces of plastic wrap and pound until even thickness. 2. Season chicken with salt and pepper, then coat in flour. 3. Melt butter in a skillet over medium-high heat. 4. Add chicken to the skillet and cook for about 5 minutes on each side, or until cooked through. 5. Remove chicken from skillet and keep warm. 6. Add lemon juice and capers to the skillet and cook for a minute or two, stirring occasionally. 7. Pour the sauce over the chicken and serve immediately.",
+        "rating": 4.0,
+        "chef_id": 3
+    },
+    {
+        "id": 5,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. In a skillet, cook bacon until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and minced garlic. 4. Add cooked spaghetti to the skillet with the bacon and toss. 5. Remove from heat and pour egg mixture over the pasta. 6. Toss quickly to coat the spaghetti in the sauce. 7. Serve immediately.",
+        "rating": 4.7,
+        "chef_id": 4
+    },
+    {
+        "id": 6,
+        "recipeName": "Chicken Piccata",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "flour",
+            "butter",
+            "lemons",
+            "capers"
+        ],
+        "cookingMethod": "1. Place chicken breasts between two pieces of plastic wrap and pound until even thickness. 2. Season chicken with salt and pepper, then coat in flour. 3. Melt butter in a skillet over medium-high heat. 4. Add chicken to the skillet and cook for about 5 minutes on each side, or until cooked through. 5. Remove chicken from skillet and keep warm. 6. Add lemon juice and capers to the skillet and cook for a minute or two, stirring occasionally. 7. Pour the sauce over the chicken and serve immediately.",
+        "rating": 4.0,
+        "chef_id": 4
+    },
+    {
+        "id": 1,
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "mozzarella cheese",
+            "basil leaves",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Top the dough with sliced tomatoes and mozzarella cheese. 4. Drizzle with olive oil and sprinkle with fresh basil leaves. 5. Bake for 12-15 minutes, or until crust is golden brown.",
+        "rating": 4.2,
+        "chef_id": 4
+    },
+    {
+        "id": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "linguine pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese. 3. Pulse until ingredients are finely chopped. 4. Slowly drizzle in olive oil while blending until pesto is smooth. 5. Toss cooked pasta with pesto sauce and serve.",
+        "rating": 4.7,
+        "chef_id": 4
+    },
+    {
+        "id": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "linguine pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese. 3. Pulse until ingredients are finely chopped. 4. Slowly drizzle in olive oil while blending until pesto is smooth. 5. Toss cooked pasta with pesto sauce and serve.",
+        "rating": 4.7,
+        "chef_id": 5
+    },
+    {
+        "id": 3,
+        "recipeName": "Caprese Salad",
+        "ingredients": [
+            "tomatoes",
+            "fresh mozzarella cheese",
+            "basil leaves",
+            "balsamic vinegar",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Slice tomatoes and mozzarella cheese into rounds. 2. Arrange the slices on a plate, alternating between tomato and cheese. 3. Top with fresh basil leaves. 4. Drizzle with balsamic vinegar and olive oil. 5. Sprinkle with salt and pepper to taste.",
+        "rating": 4.1,
+        "chef_id": 5
+    },
+    {
+        "id": 4,
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "eggs",
+            "breadcrumbs",
+            "marinara sauce",
+            "mozzarella cheese"
+        ],
+        "cookingMethod": "1. Preheat oven to 375°F. 2. Beat eggs in a shallow dish. 3. Dip chicken breasts in beaten eggs, then coat with breadcrumbs. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken breasts until golden brown on both sides. 6. Place chicken in a baking dish and top with marinara sauce and mozzarella cheese. 7. Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+        "rating": 4.8,
+        "chef_id": 5
+    },
+    {
+        "id": 4,
+        "recipeName": "Chicken Parmesan",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "eggs",
+            "breadcrumbs",
+            "marinara sauce",
+            "mozzarella cheese"
+        ],
+        "cookingMethod": "1. Preheat oven to 375°F. 2. Beat eggs in a shallow dish. 3. Dip chicken breasts in beaten eggs, then coat with breadcrumbs. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken breasts until golden brown on both sides. 6. Place chicken in a baking dish and top with marinara sauce and mozzarella cheese. 7. Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.",
+        "rating": 4.8,
+        "chef_id": 6
+    },
+    {
+        "id": 5,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions. 2. In a skillet, cook bacon until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and minced garlic. 4. Add cooked spaghetti to the skillet with the bacon and toss. 5. Remove from heat and pour egg mixture over the pasta. 6. Toss quickly to coat the spaghetti in the sauce. 7. Serve immediately.",
+        "rating": 4.7,
+        "chef_id": 6
+    },
+    {
+        "id": 1,
+        "recipeName": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "mozzarella cheese",
+            "basil leaves",
+            "olive oil"
+        ],
+        "cookingMethod": "1. Preheat oven to 450°F. 2. Roll out pizza dough on a lightly floured surface. 3. Top the dough with sliced tomatoes and mozzarella cheese. 4. Drizzle with olive oil and sprinkle with fresh basil leaves. 5. Bake for 12-15 minutes, or until crust is golden brown.",
+        "rating": 4.2,
+        "chef_id": 6
+    },
+    {
+        "id": 1,
+        "recipeName": "Pesto Pasta",
+        "ingredients": [
+            "linguine pasta",
+            "basil leaves",
+            "pine nuts",
+            "garlic",
+            "parmesan cheese"
+        ],
+        "cookingMethod": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil leaves, pine nuts, garlic, and parmesan cheese. 3. Pulse until ingredients are finely chopped. 4. Slowly drizzle in olive oil while blending until pesto is smooth. 5. Toss cooked pasta with pesto sauce and serve.",
+        "rating": 4.7,
+        "chef_id": 6
+    }
+]
